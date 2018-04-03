@@ -1,0 +1,19 @@
+.txt1{
+    margin-bottom: 10px;
+    width: 190px;
+    height: 40px;
+}
+.button{
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+}
+.bclear{
+    width: 90px;
+    height: 40px;
+    margin: 2px;
+}
+.narrow{
+    layout: center;
+    color: orangered;
+}
